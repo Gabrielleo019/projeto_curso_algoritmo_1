@@ -1,11 +1,3 @@
-//oif
- 
-/*
-gddgf
-adgdaa
-dgda
-da
-*/
 
 var nome, nome;
 nome = prompt("Digite o seu nome:")
